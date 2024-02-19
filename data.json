@@ -1,0 +1,34 @@
+{
+    "time_of_the_day":[
+        {
+            "name":"PORANEK",
+            "routines":[
+                {
+                    "routine_name": "zesraj sie",
+                    "estimated_time": 5,
+                    "color": "#213769"
+                },
+                {
+                    "routine_name":"zesraj sie2",
+                    "estimated_time":5,
+                    "color":"#213769"
+                }
+            ]
+        },
+        {
+            "name":"wieczór",
+            "routines":[
+                {"routine_name": "zesraj sie",
+                "estimated_time": 5,
+                "color": "#213769"
+            },
+            {
+                "routine_name":"zesraj sie2",
+                "estimated_time":5,
+                "color":"#213769"
+            }
+        ]
+            
+        }
+    ]
+}
